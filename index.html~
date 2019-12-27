@@ -211,32 +211,38 @@
         	<div class="container">
         		<div class="main_title">
         			<h2>Recent Projects</h2>
-        			<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see some for as low as $.17 each.</p>
         		</div>
         		<div class="feature_inner row">
         			<div class="col-lg-4 col-md-6">
         				<div class="feature_item">
-        					<i class="flaticon-city"></i>
-        					<h4>Architecture</h4>
-        					<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see some for as low as $17 each.</p>
+							<img src="img/website.jpg" style="height: 50px; width: 50px; color: grey;" alt="">
+							<br>
+							<br>
+        					<h4>Search Engine Optimization</h4>
+        					<p>Co-led a team of 10 in which we worked with a Vermont-based client where we helped increase the web presence of the company through social media usage</p>
         				</div>
         			</div>
         			<div class="col-lg-4 col-md-6">
         				<div class="feature_item">
-        					<i class="flaticon-skyline"></i>
-        					<h4>Interior Design</h4>
-        					<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see some for as low as $17 each.</p>
+							<img src="img/joystick.jpg" style="height: 50px; width: 50px; color: grey;" alt="">
+							<br>
+							<br>
+        					<h4>Video Game Prototype</h4>
+        					<p>Worked with a team for our client New Horizons to build a functional prototype for a video game designed to use guided imagery to help people to visualize their body’s immune system fighting illness to help patients fight cancer</p>
         				</div>
         			</div>
         			<div class="col-lg-4 col-md-6">
         				<div class="feature_item">
-        					<i class="flaticon-sketch"></i>
-        					<h4>Concept Design</h4>
-        					<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see some for as low as $17 each.</p>
+							<img src="img/content.jpg" style="height: 50px; width: 50px; color: grey;" alt="">
+							<br>
+							<br>
+        					<h4>Grant Proposal </h4>
+        					<p>Co-wrote a full grant proposal for the University of Colorado Colorado Springs to acquire the MRI: Acquisition of NVIDIA DGX-1 for Deep Learning</p>
         				</div>
         			</div>
         		</div>
         	</div>
+			<center><a href="projects.html" class="genric-btn info circle arrow">See More<span class="lnr lnr-arrow-right"></span></a> </center>      	
         </section>
         <!--================End Feature Area =================-->
         
