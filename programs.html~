@@ -79,12 +79,14 @@
         			<div class="col-lg-4 col-md-6">
         				<div class="feature_item">
         					<h4>C# Programming Course</h4>
-        					<p>...</p>
+							<h6>Spring 2019</h6>        					
+        					<p>Over 10 fully functional programs, games, or applications implemented using C#. They can be found at this <a href="https://github.com/tzmartin5/TaiMartinez_CS3020">GitHub Repository</a> </p>
         				</div>
         			</div>
         			<div class="col-lg-4 col-md-6">
         				<div class="feature_item">
         					<h4>Concepts of Programming Languages Unity Game</h4>
+							<h6>Fall 2019</h6>        					
         					<p>...</p>
         				</div>
         			</div>
