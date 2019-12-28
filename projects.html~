@@ -81,62 +81,92 @@
         				<div class="feature_item">
         					<h4>Co-management of High School Websites</h4>
         					<h6>Fall 2017-Present</h6>
-        					<p>...</p>
+        					<p>Was chosen to create the websites for Woodland Park High School Cross 
+        					Country and Track & Field teams using Weebly.com. I am now responsible for on-going website management 
+        					including updating coach’s requests, and attending team meetings. <br> Websites can be accessed at: <br>
+        					<a href="https://wphsxc.weebly.com/">Cross Country Website</a><br>
+							<a href="https://pantherrunning.weebly.com/">Track Website</a>      					
+        					</p>
         				</div>
         			</div>
         			<div class="col-lg-4 col-md-6">
         				<div class="feature_item">
         					<h4>Designed and Built Fully Functioning Website with SQL Database</h4>
         					<h6>Fall 2019</h6>
-        					<p>...</p>
+        					<p>Worked with a team of 5 to build the frontend and backend of a functional website with login access connected to a 
+        					SQL database for a semester project. Worked with phpMyAdmin, SQL, HTML, CSS, JSON, PHP, and bootstrap to create this website. 
+        					Website must be accessed through UCCS VPN at the moment but source code can be found at 
+        					this <a href="https://github.com/tzmartin5/CS4420">GitHub Repository</a>.</p>
         				</div>
         			</div>
         			<div class="col-lg-4 col-md-6">
         				<div class="feature_item">
         					<h4>Built a Desktop Application Prototype</h4>
         					<h6>Fall 2019</h6>
-        					<p>...</p>
+        					<p>Worked with a team to build a functional prototype for a virtual stock market desktop application using Python. 
+        					This semester project was completed using a hybrid waterfall software engineering process.
+        					This can be downloaded at this <a href="https://github.com/Chrithtoph/StockMarketApplication">GitHub Repository</a> </p> </p>
         				</div>
         			</div>
         			<div class="col-lg-4 col-md-6">
         				<div class="feature_item">
         					<h4>Wrote Patent Draft </h4>
         					<h6>Spring 2019</h6>
-        					<p>...</p>
+        					<p>Wrote a full patent draft for a hypothetical invention in a team of 4 for a semester project in Business Law. 
+        					The patent draft can be read <a href="PatentDraft.pdf">here</a> </p>
         				</div>
         			</div>
         			<div class="col-lg-4 col-md-6">
         				<div class="feature_item">
         					<h4>Search Engine Optimization and Marketing for Client</h4>
         					<h6>Fall 2018</h6>
-        					<p>...</p>
+        					<p>Co-led a team of 10 in which we worked with a Vermont-based client to increase the web presence of the company 
+        					through social media usage. We worked with the firm’s marketing department to design a new company logo and slogan 
+        					and create advertisements. The final report of the project can be viewed <a href="ChamplainTours .pdf">here</a></p>
         				</div>
         			</div>
         			<div class="col-lg-4 col-md-6">
         				<div class="feature_item">
         					<h4>Built a Functional Prototype of a Video Game </h4>
         					<h6>Spring 2018</h6>
-        					<p>...</p>
+        					<p>Worked with a team for our client New Horizons to build a functional prototype for a video game designed to use guided 
+        					imagery to help people to visualize their body’s immune system fighting illness to help patients fight cancer. Coded in C# 
+        					for the player movements, designed and coded “power-up” aspects for the game, and wrote a large portion of the final 
+        					report and documentation for the client.
+        					The final report of the project can be viewed <a href="NewHorizons.pdf">here</a></p>
         				</div>
         			</div>
         			<div class="col-lg-4 col-md-6">
         				<div class="feature_item">
         					<h4>Weebly Website Design for Client</h4>
         					<h6>Spring 2017</h6>
-        					<p>...</p>
+        					<p>Worked with a team to provide marketing for our assigned client. 
+        					I designed a website using Weebly for the client’s startup company Above the Earth. 
+        					The final report of the project can be viewed <a href="Clanton.pdf">here</a></p>
         				</div>
         			</div>
         			<div class="col-lg-4 col-md-6">
         				<div class="feature_item">
         					<h4>Wrote Request for Grant Proposal </h4>
         					<h6>Fall 2017</h6>
-        					<p>...</p>
+        					<p>Co-wrote a full grant proposal for the University of Colorado Colorado Springs 
+        					to acquire the MRI: Acquisition of NVIDIA DGX-1 for Deep Learning.
+        					The proposal report can be viewed <a href="Grant.pdf">here</a></p>
         				</div>
         			</div>
         			<div class="col-lg-4 col-md-6">
         				<div class="feature_item">
         					<h4>Designed Mobile Application Prototype</h4>
         					<h6>Fall 2016</h6>
+        					<p>Worked in a team of 4 to design an application that helps reduce texting while driving, 
+        					including designing digital storyboard design, determining costs, and testing the prototype 
+        					by surveying the general public.
+        					The proposal report can be viewed <a href="Grant.pdf">here</a></p>
+        				</div>
+        			</div>
+        			<div class="col-lg-4 col-md-6">
+        				<div class="feature_item">
+        					<h4>More Content to come</h4>
         					<p>...</p>
         				</div>
         			</div>
