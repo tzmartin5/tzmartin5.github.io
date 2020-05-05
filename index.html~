@@ -59,19 +59,19 @@
             <a class="nav-link js-scroll" href="#work">Project Experience</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll" href="personalstatement.html">Personal Statement</a>
+            <a class="nav-link js-scroll" href="personalstatement.php">Personal Statement</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll" href="inov.html">Innovation</a>
+            <a class="nav-link js-scroll" href="inov.php">Innovation</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll" href="cv.html">Curriculum Vita</a>
+            <a class="nav-link js-scroll" href="cv.php">Curriculum Vita</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll" href="accomplishments.html">Leadership</a>
+            <a class="nav-link js-scroll" href="accomplishments.php">Leadership</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll" href="references.html">References</a>
+            <a class="nav-link js-scroll" href="references.php">References</a>
           </li>
         </ul>
       </div>
