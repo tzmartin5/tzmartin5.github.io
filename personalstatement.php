@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Tai Martinez Senior Portfolio</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Favicons -->
+  <link href="img/favicon.png" rel="icon">
+  <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate/animate.min.css" rel="stylesheet">
+  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+    Theme Name: DevFolio
+    Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+    Author: BootstrapMade.com
+    License: https://bootstrapmade.com/license/
+  ======================================================= -->
+</head>
+
+<body id="page-top">
+
+  <!--/ Nav Star /-->
+  <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand js-scroll" href="#page-top">Portfolio</a>
+      <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
+        aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <div class="navbar-collapse collapse justify-content-end" id="navbarDefault">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="index.php">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="index.php#about">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="index.php#service">Skills</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="index.php#work">Project Experience</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll active" href="personalstatement.php">Personal Statement</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="inov.php">Innovation</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="cv.php">Curriculum Vita</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="accomplishments.php">Leadership</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="references.php">References</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!--/ Nav End /-->
+
+  <!--/ Intro Skew Star /-->
+  <div id="home" class="intro route bg-image" style="background-image: url(img/intro-bg.jpg)">
+    <div class="overlay-itro"></div>
+    <div class="intro-content display-table">
+      <div class="table-cell">
+        <div class="container">
+			 <br>             
+			 <h1 class="intro-title mb-1">Personal Statement</h1>    
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--/ Intro Skew End /-->
+
+  <!--/ Section Services Star /-->
+  <section id="service" class="services-mf route">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="title-box text-center">
+            <!--<h1 class="title-b"></h1>-->
+            <div class="line-mf"></div>
+            <br>
+            <p class="box-shadow-full" align="left">
+					&#8195;&#8195;&#8195;Computer Science: the field of computer technology and innovation that appeals to those with strong STEM skills and a passion 
+					for computers. 
+					Similarly, it also the field of study where women only make up about 18% of Computer Science bachelor’s degrees in the United States according 
+					to the Bureau of Labor Statistics. Initially, as a Hispanic female in a male dominated field I had several stereotypes to overcome that are 
+					typically correlated with minorities that generally brought down my confidence level when comparing myself to my peers. I learned early in my 
+					schooling in Computer Science that women were typically viewed as less superior and when there is a female that is as smart as than their male 
+					classmates, they are viewed as rare and especially gifted. I personally experienced this in several team projects in my more technical programming 
+					classes when I was tasked with doing the “lightwork” such as the report because my teammates did not think I could handle more technical tasks. 
+					Being on a team where your teammates don’t have the confidence in you essentially drove my confidence in myself to the ground. 
+					As I experienced this more in my early years of college, I learned to overcome this judgment by volunteering to do more technical parts before 
+					assignments were given so I could show that I am able to handle what was tasked. 
+					<img src="img/CS.png" alt="CS" style="width:500px;height:300px;float:right;padding:5px"> 					
+					<br>&#8195;&#8195;&#8195;To add to this, I am also several years young for my class because I graduated high school early and started college when I was sixteen years 
+					old which did not add confidence to my overall feeling. Visibly being the youngest in a class often gave off the impression that I have a lack 
+					experience and thus knowledge among my peers. I picked up on this quickly and rather than dwelling on it, I used it to my advantage in which my youth 
+					made me more willing to learn whatever was needed to be successful. 
+					<br>&#8195;&#8195;&#8195;Furthermore, by working through my classes mostly in teams or groups among my classmates, I was able to change this negative feeling 
+					into positive traits that I continue to use today. For example, by being assigned as a team lead, I discovered that I needed to speak up and 
+					voice my knowledge and opinions because it was just as valuable as those around me. This helped shape me into a more determined and persistent 
+					person as I had to push out of my comfort zone to speak out. In correlation to this, I also became more hard working throughout my education to 
+					stay competitive with those around me who already had the confidence working in a Computer Science environment. These are just several examples of 
+					the personal skills I obtained throughout my degree that I will continue to use in whatever I do in life and in my career.
+					<br>&#8195;&#8195;&#8195;Additionally, I am naturally a detail-oriented and results driven person therefore, I feel that Computer Science is a field where I can put 
+					these skills to good use. With that being said, these skills that I have achieved over the years and throughout my degree have only helped fuel my 
+					passion of Computer Science and have only excelled me to push forward even more to acquire a career in this field. I am truly inspired by technology, 
+					more specifically the potential that technology has to affect the people around them by expressing the ideas and concepts of those who created it. 
+					By continually innovating this technology, there will always be new impacts in society. This is something that I would definitely like to be a part 
+					of and it continually inspires me to work hard to achieve that goal. 
+					<br>&#8195;&#8195;&#8195;Personally, I value the results obtained of a situation and equally importantly, the process it took to get there. There was a long 
+					process of learning Computer Science and who I was as a person as well as who I want to be in the future. With this path I created so far with 
+					my studies, attaining a Bachelor of Innovation of Computer Science degree is something that will propel me forward to earning a career in 
+					Computer Science which will fuel this inspiration to help me achieve bigger and better accomplishments in Computer Science.  
+            </p>
+
+          </div>
+        </div>
+      </div>
+  </section>
+  <!--/ Section Services End /-->
+
+  
+
+  <!--/ Section Contact-Footer Star /-->
+  <section class="paralax-mf footer-paralax bg-image sect-mt4 route" style="background-image: url(img/overlay-bg.jpg)">
+    <div class="overlay-mf"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="contact-mf">
+            <div id="contact" class="box-shadow-full">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="title-box-2 pt-4 pt-md-0">
+                    <h5 class="title-left">Get in Touch</h5>
+                  </div>
+                  <div class="more-info">
+                    <p class="lead">
+                      Please do not hesitate to contact me!
+                    </p>
+                    <ul class="list-ico">
+                      <li><span class="ion-ios-location"></span> Colorado Springs, Colorado</li>
+                      <li><span class="ion-ios-telephone"></span> (719) 433-1449</li>
+                      <li><span class="ion-email"></span> taymart1699@gmail.com</li>
+                    </ul>
+                  </div>
+                  <div class="socials">
+                    <ul>
+                      <li><a href="https://www.linkedin.com/in/tai-martinez-493198177/"><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li>
+                      <li><a href="https://github.com/tzmartin5"><span class="ico-circle"><i class="ion-social-github"></i></span></a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="copyright-box">
+              <p class="copyright">&copy; Copyright <strong>DevFolio</strong>. All Rights Reserved</p>
+              <div class="credits">
+                <!--
+                  All the links in the footer should remain intact.
+                  Licensing information: https://bootstrapmade.com/license/
+                  Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=DevFolio
+                -->
+                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </section>
+  <!--/ Section Contact-footer End /-->
+
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+  <div id="preloader"></div>
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="modal.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/popper/popper.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/counterup/jquery.waypoints.min.js"></script>
+  <script src="lib/counterup/jquery.counterup.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="lib/lightbox/js/lightbox.min.js"></script>
+  <script src="lib/typed/typed.min.js"></script>
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+
+</body>
+</html>
